@@ -1,0 +1,15 @@
+
+#sec-home {
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("../images/bg-main.jpg") no-repeat center center;
+  background-size: cover;
+  background-position: 50%;
+  height: 100vh;
+  min-height: 480px;
+}
+
+.f-name {
+  font-family: "Amsterdam Four_ttf";
+}
+.f-title {
+  font-family: 'Noto Serif KR', serif;
+}
